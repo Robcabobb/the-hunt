@@ -1,5 +1,7 @@
-import Landing from './Landing'
-import Error from './Error'
 import Register from './Register'
-import ProtectedRoute from './ProtectedRoute'
-export { Landing, Error, Register, ProtectedRoute }
+import Home from './Home'
+import Dashboard from './Dashboard'
+import Edit from './Edit'
+import Error from './Error'
+import PrivateRoute from './PrivateRoute'
+export { Home, Register, Dashboard, Edit, Error, PrivateRoute }
